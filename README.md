@@ -1,4 +1,5 @@
-const obsoleteDev = {
+```
+const obsoleteDev = { 
   pronouns: "they" | "he",
   code: [Javascript, HTML, CSS, Python, Lua],
   tools: [Node, Nginx, openVMS, Nodemon, Bash, Prettier],
@@ -6,3 +7,4 @@ const obsoleteDev = {
   email : "hi@obsoletedev.com"
   domains : ["obsoletedev.com", "binder.gg"]
 }
+```
