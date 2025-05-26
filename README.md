@@ -1,4 +1,4 @@
-```
+```javascript
 const obsoleteDev = { 
   pronouns: "they" | "he",
   code: [Javascript, HTML, CSS, Python, Lua],
